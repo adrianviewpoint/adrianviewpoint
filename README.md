@@ -15,7 +15,7 @@
 
 Hi, I’m Adrian — thanks for stopping by.
 
-I taught myself to code in high school after finding my dad’s three Turbo C floppies 💾. I booted the IDE, cracked open a C book, and hacked together a tiny sales tax calculator. That moment — turning curiosity into something useful — has stayed with me ever since.
+I taught myself to code in high school after finding my dad’s three Turbo C floppies 💾. I booted the IDE, cracked open a C book, and hacked together a tiny sales tax calculator. That moment, turning curiosity into something useful, has stayed with me ever since.
 
 Today, I explore modern stacks and apply them to a space I care deeply about: personal finance. From budgeting to investing, I’m interested in turning messy questions into simple, repeatable tools that save time and help people make better decisions.
 

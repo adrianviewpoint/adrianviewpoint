@@ -11,7 +11,7 @@
 .- -.. .-. .. .- -. ...- .. . .-- .--. --- .. -. - 
 ```
 
-## From Turbo C floppies to building tools for financial clarity
+## 🖥️ From Turbo C floppies to building tools for financial clarity
 
 Hi, I’m Adrian — thanks for stopping by.
 
@@ -21,14 +21,14 @@ Today, I explore modern stacks and apply them to a space I care deeply about: pe
 
 Over the years, I’ve worked as an IT consultant, taking on both development and DevOps mandates. This dual experience has shaped how I approach building, deploying, and maintaining software.
 
-## Core principles that drives me
+## 🧭 Core principles that drives me
 
 - Simplicity first (KISS): keep things stupid simple—fewer moving parts, clearer intent, easier maintenance.
 - Clarity over cleverness: I’d rather ship a clear tool than a tangled masterpiece.
 - Pragmatic engineering: readable code, sensible tradeoffs, solid defaults.
 - Usefulness first: ship something helpful, then polish.
 
-## DevOps Principles I Value
+## ⚙️ DevOps Principles I Value
 
 - Automate the boring stuff: repeatable, reliable pipelines save time and prevent mistakes.
 - Everything as code: infrastructure, configs, and deployments should be versioned and reviewable.
@@ -38,7 +38,7 @@ Over the years, I’ve worked as an IT consultant, taking on both development an
 - Collaboration over silos: devs and ops work together to ship, monitor, and improve.
 - Simplicity scales: prefer simple, well-documented automation over clever complexity.
 
-## Exploration & ongoing experiments
+## 🧪 Exploration & ongoing experiments
 
 I'm building a lab of small repos where I deliberately try new frameworks, runtimes, databases, and architectural patterns. Exploring different stacks keeps me versatile and exposes me to new ways of solving common problems, helping me choose the best tool for each challenge with confidence.
 
@@ -55,10 +55,10 @@ Adaptability helps me avoid overengineering by choosing the simplest proven solu
 
 Curiosity drives most of these experiments — when something sticks, it often becomes a reusable template that I apply to my projects or simple explorations to scratch that new shiny tech itch. You’ll see these explorations appear as small, well‑labeled repos over time.
 
-## Beyond the screen
+## 📚 Beyond the screen
 
 I’m passionate about personal finance as a craft — not just numbers, but habits, systems, and calm decision‑making. When I’m not coding, I’m often reading, sketching ideas, or testing small changes that compound over time.
 
-## Say hi
+## 👋 Say hi
 
 Have an idea, question, or a tiny pain you wish a tool could fix? Reach out on 𝕏 — I’m always happy to jam on ideas or collaborate on small, useful things.

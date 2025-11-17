@@ -23,7 +23,7 @@ Over the years, I’ve worked as an IT consultant, taking on both development an
 
 ## Core principles that drives me
 
-- Simplicity first (KISS): keep things stupid simple—fewer moving parts, clearer intent, easier maintenance.
+- Simplicity first (KISS): keep things stupid simple. Fewer moving parts, clearer intent, easier maintenance.
 - Clarity over cleverness: I’d rather ship a clear tool than a tangled masterpiece.
 - Pragmatic engineering: readable code, sensible tradeoffs, solid defaults.
 - Usefulness first: ship something helpful, then polish.
@@ -53,12 +53,12 @@ What I actively explore:
 
 Adaptability helps me avoid overengineering by choosing the simplest proven solution for each problem. Exploring different stacks broadens my perspective and reinforces simplicity in every project.
 
-Curiosity drives most of these experiments — when something sticks, it often becomes a reusable template that I apply to my projects or simple explorations to scratch that new shiny tech itch. You’ll see these explorations appear as small, well‑labeled repos over time.
+Curiosity drives most of these experiments. When something sticks, it often becomes a reusable template that I apply to my projects or simple explorations to scratch that new shiny tech itch. You’ll see these explorations appear as small, well‑labeled repos over time.
 
 ## Beyond the screen
 
-I’m passionate about personal finance as a craft — not just numbers, but habits, systems, and calm decision‑making. When I’m not coding, I’m often reading, sketching ideas, or testing small changes that compound over time.
+I’m passionate about personal finance as a craft, not just numbers, but habits, systems, and calm decision‑making. When I’m not coding, I’m often reading, sketching ideas, or testing small changes that compound over time.
 
 ## Say hi
 
-Have an idea, question, or a tiny pain you wish a tool could fix? Reach out on 𝕏 — I’m always happy to jam on ideas or collaborate on small, useful things.
+Have an idea, question, or a tiny pain you wish a tool could fix? Reach out on 𝕏! I’m always happy to jam on ideas or collaborate on small, useful things.
